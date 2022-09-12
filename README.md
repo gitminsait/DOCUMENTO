@@ -77,7 +77,7 @@ document.write('<br>');
 document.write('<button type="button" class="copy" style="background-color:black; color: #fff; borber: 2px solid #4CAF50; padding: 8px 18px;">Copiar Texto</button>');
 document.write('<br>');
 document.write('<br>');
-document.write('<a href="https://rhianmello.github.io/layout.minsait.indra/">Retornar</a>');
+document.write('<a href="https://https://github.com/gitminsait/DOCUMENTO/">Retornar</a>');
 
 
 const btnCopy = document.querySelector('button.copy');
@@ -112,7 +112,7 @@ btnCopy.addEventListener('click', (e) => {
 <form name="formulario">
 		<div class="form-row">
 		<div class="form-group col-md-6">
-			<li><a href = "https://rhianmello.github.io/layout.minsait.indra/"> Inicio </a></li>
+			<li><a href = "https://https://github.com/gitminsait/DOCUMENTO/"> Inicio </a></li>
 			<li><a href = "<html>
 <head>
 
@@ -175,7 +175,7 @@ document.write('<br>');
 document.write('<button type="button" class="copy" style="background-color:black; color: #fff; borber: 2px solid #4CAF50; padding: 8px 18px;">Copiar Texto</button>');
 document.write('<br>');
 document.write('<br>');
-document.write('<a href="https://rhianmello.github.io/layout.minsait.indra/">Retornar</a>');
+document.write('<a href="https://https://github.com/gitminsait/DOCUMENTO/">Retornar</a>');
 
 
 const btnCopy = document.querySelector('button.copy');
@@ -206,7 +206,7 @@ btnCopy.addEventListener('click', (e) => {
 	<HR size="5" color=#fff>
 	<div id = "menu">
 		<UL>
-			<li><a href = "https://rhianmello.github.io/layout.minsait.indra/"> Inicio </a></li>
+			<li><a href = "https://https://github.com/gitminsait/DOCUMENTO/"> Inicio </a></li>
 			<li><a href = "sitef.html"> SITEF </a></li>
 			<li><a href = "vivonext.html"> VIVO NEXT </a></li>
 			<li><a href = "vivocorp.html"> VIVO CORP </a></li>
